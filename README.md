@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aboissie
+- 👋 Hi, I’m Augustin Boissier
 - 🌱 I’m currently learning Computational and Mathematical Engineering at Stanford University
 - 📫 How to reach me : _aboissie@stanford.edu_
 
